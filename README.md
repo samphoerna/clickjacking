@@ -1,6 +1,10 @@
 # clickjacking
 script to exploit website iframes function
 
+<img width="200" heigh="200" alt="jack" src="https://github.com/samphoerna/clickjacking/assets/139729508/24fe8f1d-ed05-400d-b4f0-3dab65e60b37">
+
+---
+
 Clickjacking, also known as a UI (User Interface) Redress Attack or a "UI Clickjacking Attack," is a malicious technique where an attacker tricks a user into clicking on a seemingly harmless element on a web page, while actually performing unintended actions or interacting with hidden elements. The attacker achieves this by overlaying or framing the target web page with another transparent or disguised page that contains the attacker's malicious content.
 
 **Exploit:**
